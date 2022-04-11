@@ -3,3 +3,4 @@ F1 - line - 1 - side - master - merge
 rebase remote change in local change
 Test
 local change
+committed changes from the remote
